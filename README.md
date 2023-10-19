@@ -53,7 +53,10 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 ## PROGRAM:
 
-```python
+```
+Name: PRAVINRAJJ G.K
+Reg.no: 212222240080
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
